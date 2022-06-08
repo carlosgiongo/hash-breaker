@@ -1,0 +1,23 @@
+{
+  "name": "hash-breaker",
+  "version": "1.0.0",
+  "description": "Biblioteca criada para quebra de hashes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/carlosgiongo/hash-breaker.git"
+  },
+  "author": "Carlos Giongo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/carlosgiongo/hash-breaker/issues"
+  },
+  "homepage": "https://github.com/carlosgiongo/hash-breaker#readme",
+  "dependencies": {
+    "md5": "^2.3.0",
+    "minimist": "^1.2.6"
+  }
+}
