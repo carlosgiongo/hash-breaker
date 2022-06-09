@@ -18,6 +18,8 @@
   "homepage": "https://github.com/carlosgiongo/hash-breaker#readme",
   "dependencies": {
     "md5": "^2.3.0",
-    "minimist": "^1.2.6"
+    "minimist": "^1.2.6",
+    "sha1": "^1.1.1",
+    "sha256": "^0.2.0"
   }
 }
